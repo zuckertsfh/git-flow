@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2114bc7d-7b4c-4d5f-b21c-df9296d55317" name="Changes" comment="Revert &quot;INITIAL COMMIT&quot;&#10;&#10;This reverts commit 643ede56">
+    <list default="true" id="2114bc7d-7b4c-4d5f-b21c-df9296d55317" name="Changes" comment="add gitignore">
       <change beforePath="$PROJECT_DIR$/master.kt" beforeDir="false" afterPath="$PROJECT_DIR$/master.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677430639741</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add gitignore">
+      <created>1677436953501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677436953501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +111,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -119,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="INITIAL COMMIT" />
     <MESSAGE value="Revert &quot;INITIAL COMMIT&quot;&#10;&#10;This reverts commit 643ede56" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;INITIAL COMMIT&quot;&#10;&#10;This reverts commit 643ede56" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
 </project>

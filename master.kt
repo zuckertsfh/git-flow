@@ -1,1 +1,3 @@
-MY MASTER
+class MyMaster {
+
+}
